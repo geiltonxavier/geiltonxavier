@@ -5,6 +5,6 @@
 
 ### You can find me on
 
-<img src="https://avatars3.githubusercontent.com/u/357098?s=20&v=1" width="20px"> [LinkedIn](https://www.linkedin.com/in/geiltonxavier/) <br>
+<img src="https://avatars3.githubusercontent.com/u/357098?s=15&v=1" width="15px"> [LinkedIn](https://www.linkedin.com/in/geiltonxavier/) <br>
 🐦 [Twitter](https://twitter.com/geiltonxavier) <br>
 🌎 [My site](https://geiltonxavier.wordpress.com/) <br>
