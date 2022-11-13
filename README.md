@@ -8,7 +8,7 @@ A little about me:
 - 🌱  I'm currently learning everything related to **.NET Platform**, **Azure** and **Microservices architecture**.
 - 📚  System Analysis and Development Diploma; and studying post graduation in information systems
 
-- 💬 Ask me anything [here](https://github.com/geiltonxavier/geiltonxaver/issues)
+- 💬 Ask me anything [here](https://github.com/geiltonxavier/geiltonxavier/issues)
 
 
 [![personal site](https://img.shields.io/badge/Reach%20me%20at%20-https%3A%2F%2Fgeiltonxavier.dev%2F-blue)](https://www.geiltonxavier.dev/)
