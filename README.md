@@ -10,10 +10,6 @@ A little about me:
 
 - 💬 Ask me anything [here](https://github.com/geiltonxavier/geiltonxavier/issues)
 
-
-(https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=plastic) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&style=plastic) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&style=plastic) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=plastic)
-
-
 Thanks for your visiting
 </p>
 
