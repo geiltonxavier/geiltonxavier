@@ -5,8 +5,6 @@ A little about me:
 
 - 🇵🇹 Lisbon, **Portugal**.
 - 🔭  I'm a Software Engineer with over 10+ years of professional experience. Passionate for clean code, domain driven design and test driven development.
-- 🌱  I'm currently learning everything related to **Ruby on Rails Ecosystem, NodeJS and .NET Platform**, **Azure** and **Microservices architecture**.
-- 📚  System Analysis and Development Diploma; and studying post graduation in information systems
 
 - 💬 Ask me anything [here](https://github.com/geiltonxavier/geiltonxavier/issues)
 
