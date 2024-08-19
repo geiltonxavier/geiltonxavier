@@ -1,10 +1,9 @@
-<h2> Hi, I'm Geilton Xavier! <img src="https://i.imgur.com/RSNpIzE.gif" width="50"></h2>
+## Hi there 👋
 
+### 📫 How to reach me out:
+- http://www.geiltonxavier.com.br
 
-A little about me:
-
-- 🇵🇹 Lisbon, **Portugal**.
-- 🔭  I'm a Software Engineer with over 10+ years of professional experience. Passionate for clean code, domain driven design and test driven development.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💬 Ask me anything [here](https://github.com/geiltonxavier/geiltonxavier/issues)
 
