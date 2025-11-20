@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 📫 How to reach me out:
-- http://www.geiltonxavier.dev
+- http://geiltonxavier.dev
 
 - 💬 Ask me anything [here](https://github.com/geiltonxavier/geiltonxavier/issues)
 
